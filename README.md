@@ -31,7 +31,8 @@ For this project, two data sets will be used. Inside Airbnb set contains the Air
 
 ## Method and results
 
-First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
+We would like to investigate whether the prices changed significantly due to the different phases (dates) across the COVID-19 pandemic. Thus, we compare to groups of ratio variables. Therefore, we carry out an ANOVA analysis. 
+
 
 Second, summarize your results concisely. Make use of subheaders where appropriate.
 
